@@ -1,0 +1,82 @@
+
+ No Background processes detected 
+
+**We are in process with pid = 10519 and ppid = 5784 
+Waiting for the child process to end 
+
+**We are in parent now with pid = 10519 and It is goint to wait for the child **
+
+WARNING : Found & in the command 
+
+WARNING : background process detected 
+
+**We are in process with pid = 10519 and ppid = 5784 
+
+** We are in the parent now with pid = 10519 but we aren't going to wait for background child 
+Parent will not wait deliberately for the child  
+
+ No Background processes detected 
+
+**We are in process with pid = 10519 and ppid = 5784 
+Waiting for the child process to end 
+
+**We are in parent now with pid = 10519 and It is goint to wait for the child **
+
+ No Background processes detected 
+
+**We are in process with pid = 10519 and ppid = 5784 
+Waiting for the child process to end 
+
+**We are in parent now with pid = 10519 and It is goint to wait for the child **
+
+ No Background processes detected 
+
+**We are in process with pid = 10519 and ppid = 5784 
+Waiting for the child process to end 
+
+**We are in parent now with pid = 10519 and It is goint to wait for the child **
+
+ No Background processes detected 
+
+**We are in process with pid = 10519 and ppid = 5784 
+Waiting for the child process to end 
+
+**We are in parent now with pid = 10519 and It is goint to wait for the child **
+
+ No Background processes detected 
+
+**We are in process with pid = 10519 and ppid = 5784 
+Waiting for the child process to end 
+
+**We are in parent now with pid = 10519 and It is goint to wait for the child **
+
+ No Background processes detected 
+
+**We are in process with pid = 10519 and ppid = 5784 
+Waiting for the child process to end 
+
+**We are in parent now with pid = 10519 and It is goint to wait for the child **
+
+ No Background processes detected 
+
+**We are in process with pid = 10519 and ppid = 5784 
+Waiting for the child process to end 
+
+**We are in parent now with pid = 10519 and It is goint to wait for the child **
+
+ No Background processes detected 
+
+**We are in process with pid = 10519 and ppid = 5784 
+Waiting for the child process to end 
+
+**We are in parent now with pid = 10519 and It is goint to wait for the child **
+
+ No Background processes detected 
+
+**We are in process with pid = 10519 and ppid = 5784 
+Waiting for the child process to end 
+
+**We are in parent now with pid = 10519 and It is goint to wait for the child **
+Main loop ended 
+Closing the file.. 
+ Returning..
